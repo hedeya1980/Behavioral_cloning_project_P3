@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 ![alt text] https://github.com/hedeya1980/Behavioral_cloning_project_P3/blob/master/placeholder.png "Model Visualization"
-[image1]: ./placeholder.png "Grayscale"
+![alt text] ./placeholder.png "Grayscale"
 [image2]: ./examples/placeholder.png "Grayscaling"
 [image3]: ./examples/placeholder_small.png "Recovery Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
